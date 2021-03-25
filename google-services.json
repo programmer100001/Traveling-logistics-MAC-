@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328361618479",
+    "project_id": "mac-logistics2021",
+    "storage_bucket": "mac-logistics2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328361618479:android:da47d28f768a5de70c2ada",
+        "android_client_info": {
+          "package_name": "com.example.bolognavasity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328361618479-pck05apib7f5m8osm5ra1id28uh0g9d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBefPGaq9dxExrUH_x4y-Pnk0yyzi3Ic94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328361618479-pck05apib7f5m8osm5ra1id28uh0g9d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
